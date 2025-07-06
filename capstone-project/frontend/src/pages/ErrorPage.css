@@ -1,0 +1,9 @@
+.error-page {
+  text-align: center;
+  padding: 2rem;
+  color: #dc3545; /* Bootstrap danger color */
+}
+.error-details {
+  font-family: monospace;
+  opacity: 0.7;
+}
